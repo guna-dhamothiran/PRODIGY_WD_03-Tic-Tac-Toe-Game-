@@ -2,9 +2,6 @@
 
 This is an interactive tic-tac-toe game implemented using HTML, CSS and JavaScript. The game has both single and double player modes, with different difficulty levels for the computer opponent.
 
-## Live Demo
-
-You can play the game online at: [https://amirmohammadpx.github.io/Tic-Tac-Toe-Game](https://amirmohammadpx.github.io/Tic-Tac-Toe-Game)
 
 ## Features
 
@@ -36,7 +33,7 @@ You can play the game online at: [https://amirmohammadpx.github.io/Tic-Tac-Toe-G
 To run this project locally, simply clone the repository and open the `index.html` file in your web browser.
 
 ```
-git clone https://github.com/amirmohammadpx/Tic-Tac-Toe-Game.git
+git clone https://github.com/guna-dhamothiran/PRODIGY_WD_03-Tic-Tac-Toe-Game-
 cd Tic-Tac-Toe-Game
 ```
 
